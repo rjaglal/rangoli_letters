@@ -50,5 +50,6 @@ def print_rangoli(size):
 
 
 if __name__ == '__main__':
+    print('Please enter an integer: ')
     n = int(input())
     print_rangoli(n)
